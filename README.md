@@ -1,6 +1,6 @@
 # UK COVID Mortality
 
-![Alt text](summary.png?raw=true "Summary")
+![Alt text](summary.jpg?raw=true "Summary")
 
 
 This repository contains data downloaded from the [ONS](https://www.ons.gov.uk/) and scripts for 
