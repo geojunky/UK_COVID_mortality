@@ -1,5 +1,8 @@
 # UK COVID Mortality
 
+![Alt text](summary.png?raw=true "Summary")
+
+
 This repository contains data downloaded from the [ONS](ons.gov.uk) and scripts for 
 generating comparative plots of total deaths in the UK over the last ten years.
 
